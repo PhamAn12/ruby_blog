@@ -1,4 +1,6 @@
 simple blog 
 + CRUD
 + Comment
-+ Like
+clone
+rails db:migrate
+rails s
